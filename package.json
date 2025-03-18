@@ -1,0 +1,9 @@
+{
+    "name": "processor-service",
+    "version": "1.0.0",
+    "main": "src/processor.js",
+    "dependencies": {
+      "express": "^4.18.2",
+      "csv-parse": "^5.5.0"
+    }
+}
